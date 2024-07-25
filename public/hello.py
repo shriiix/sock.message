@@ -1,2 +1,2 @@
-print("hellooo")
-input("Enter name ")
+print("hellooo",n)
+n = input("Enter name ")
